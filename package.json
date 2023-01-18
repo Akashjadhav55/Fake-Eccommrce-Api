@@ -1,0 +1,25 @@
+{
+  "name": "fake-ecommerce-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Akashjadhav55/Fake-Eccommrce-Api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Akashjadhav55/Fake-Eccommrce-Api/issues"
+  },
+  "homepage": "https://github.com/Akashjadhav55/Fake-Eccommrce-Api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-serve": "^0.1.0",
+    "json-server": "^0.17.1"
+  }
+}
